@@ -1,4 +1,4 @@
-## 👋 Hello! My name is Uyen Nguyen (she/her)!
+## 👋 Hello! My name is Uyen Nguyen!
 
 Here are a couple of things about me:
 - 🎓 Currently a sophomore at Denison University, double majoring in Applied Math & Computer Science
