@@ -4,7 +4,7 @@ Here are a couple of things about me:
 - 🎓 Currently a sophomore at Denison University, double majoring in Applied Math & Computer Science
 - 🤖 Also learning cool things about AI and ML through AI Vietnam 🇻🇳
 - 💻 Working on my personal portfolio website and an interactive super cool website for my ✨TEDxDenisonU✨
-- 👯 Love to collaborate on projects/researches about real-time object detection
+- 👯 Love to collaborate on projects/researches about real-time object detection and NLP
 - 📫 You can find me through my [LinkedIn](https://www.linkedin.com/in/thaouyen-190304) and get in touch @ thaouyen190304@gmail.com
 
 
