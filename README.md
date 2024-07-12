@@ -1,7 +1,8 @@
 ## 👋 Hello! My name is Uyen Nguyen!
 
 Here are a couple of things about me:
-- 🎓 Currently a sophomore at Denison University, double majoring in Applied Math & Computer Science
+- 🎓 Currently a junior at Denison University, double majoring in Applied Math & Computer Science
+- ✈️ Studying abroad at The American College of Greece for Fall 2024, concentrating in AI and Cognitive Computing
 - 🤖 Also learning cool things about AI and ML through AI Vietnam 🇻🇳
 - 💻 Working on my personal portfolio website right now ✨
 - 👯 Love to collaborate on projects/researches about real-time object detection and NLP
